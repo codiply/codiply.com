@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+show_downloads: false
+title: Codiply.com
+# description:  
+logo: images/profile.jpeg
+google_analytics: G-GQ8V0FE15Y
+github:
+  is_project_page: false
+  is_user_page: false
